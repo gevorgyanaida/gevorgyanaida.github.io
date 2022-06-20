@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 35px;
+}
+
+h2{
+    font-size: 30px;
+    margin-left: 35px;
+    color: blue;
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 35px;
+}
+
+body{
+    border: solid 10px goldenrod;
+    background-color: rgb(216, 197, 150);
+}
+
